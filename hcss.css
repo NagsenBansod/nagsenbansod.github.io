@@ -1,9 +1,13 @@
 header
 {
+  font-size:28px;
   text-align: center;
   background-color:lightblue;
 }
 
 a:hover{
   color:red;
+}
+nav{
+  background-color:lightgreen;
 }
